@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782354425430",
+    "firebase_url": "https://rotaractnepalapp-9978e.firebaseio.com",
+    "project_id": "rotaractnepalapp-9978e",
+    "storage_bucket": "rotaractnepalapp-9978e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782354425430:android:413f33f63a0c1e8e",
+        "android_client_info": {
+          "package_name": "com.rotaractnepalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782354425430-8dlqvbtrv6rt85lrnrjt9pe1r4ajb8ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rotaractnepalapp",
+            "certificate_hash": "32430ff11e76ef8502ab8c030e3e7520af48bcae"
+          }
+        },
+        {
+          "client_id": "782354425430-dvnlclikv5me58mq60t21hfloo03k84e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0Mmcn3d_x8tx9cYsHPtv0j9yjTYu8Xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782354425430-dvnlclikv5me58mq60t21hfloo03k84e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
